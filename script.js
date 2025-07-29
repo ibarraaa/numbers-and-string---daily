@@ -9,7 +9,7 @@ console.log(infiniteNum);
 
 /*  
         --PROPERTY--  
-Number.MAX_VALUE  -  The largest positive 
+Number.MAX_VALUE  -  The largest positive  
                     representable number (1.7976931348623157e+308)
 Number.MIN_VALUE  - he smallest positive representable number (5e-324)
 Number.NaN    -     Special "not a number" value
