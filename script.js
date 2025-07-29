@@ -6,7 +6,7 @@ const notANum = Number.NaN;
 
   
 console.log(infiniteNum);
- 
+  
 /*  
         --PROPERTY--  
 Number.MAX_VALUE  -  The largest positive  
