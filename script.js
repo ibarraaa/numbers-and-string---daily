@@ -4,7 +4,7 @@ const infiniteNum = Number.POSITIVE_INFINITY;
 const negInfiniteNum = Number.NEGATIVE_INFINITY;
 const notANum = Number.NaN;
 
-
+  
 console.log(infiniteNum);
 
 /*  
